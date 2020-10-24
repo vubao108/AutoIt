@@ -1,0 +1,286 @@
+Start of the FileWrite example, line 1. 
+years
+Start of the FileWrite example, line 1. 
+After
+Start of the FileWrite example, line 1. 
+Pondicherry
+Start of the FileWrite example, line 1. 
+always
+Start of the FileWrite example, line 1. 
+So
+Start of the FileWrite example, line 1. 
+Madras
+Start of the FileWrite example, line 1. 
+story
+Start of the FileWrite example, line 1. 
+
+Start of the FileWrite example, line 1. 
+thinks
+Start of the FileWrite example, line 1. 
+animals
+Start of the FileWrite example, line 1. 
+however
+Start of the FileWrite example, line 1. 
+There
+Start of the FileWrite example, line 1. 
+imagine
+Start of the FileWrite example, line 1. 
+watches
+Start of the FileWrite example, line 1. 
+ran
+Start of the FileWrite example, line 1. 
+always
+Start of the FileWrite example, line 1. 
+Madras
+Start of the FileWrite example, line 1. 
+Running
+Start of the FileWrite example, line 1. 
+story
+Start of the FileWrite example, line 1. 
+roaring
+Start of the FileWrite example, line 1. 
+After
+Start of the FileWrite example, line 1. 
+Running
+Start of the FileWrite example, line 1. 
+roaring
+21/10/2020 all
+21/10/2020 After
+4:16:03 PM decided
+4:16:13 PM cleaning
+4:16:17 PM Running
+4:16:34 PM because
+4:16:34 PM because
+4:16:38 PM because
+4:24:28 PM Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+4:24:29 PM story
+4:25:23 PM Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+4:25:31 PM moved
+4:25:40 PM Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+4:25:40 PM owned
+4:25:48 PM Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+4:25:53 PM Madras
+4:27:18 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+4:27:19 PM brefore call WinActive, Current active title: Madras - GoldenDict
+4:27:19 PM after call WinWaitActive, Current active title: Madras - GoldenDict
+4:27:19 PM Running
+4:27:42 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+4:27:43 PM brefore call WinActive, Current active title: Running - GoldenDict
+4:27:43 PM after call WinWaitActive, Current active title: Running - GoldenDict
+4:27:43 PM beautiful
+4:27:51 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+4:27:51 PM brefore call WinActive, Current active title: beautiful - GoldenDict
+4:27:52 PM after call WinWaitActive, Current active title: beautiful - GoldenDict
+4:27:52 PM territory
+4:27:58 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+4:27:58 PM brefore call WinActive, Current active title: territory - GoldenDict
+4:27:59 PM after call WinWaitActive, Current active title: territory - GoldenDict
+4:27:59 PM Satish
+4:28:07 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+4:28:07 PM brefore call WinActive, Current active title: Satish - GoldenDict
+4:28:07 PM after call WinWaitActive, Current active title: Satish - GoldenDict
+4:28:07 PM before
+4:28:12 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+4:28:13 PM brefore call WinActive, Current active title: before - GoldenDict
+4:28:13 PM after call WinWaitActive, Current active title: before - GoldenDict
+4:28:13 PM Father
+4:28:19 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+4:28:19 PM brefore call WinActive, Current active title: Father - GoldenDict
+4:28:19 PM after call WinWaitActive, Current active title: Father - GoldenDict
+4:28:19 PM holiday
+4:51:33 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+4:51:33 PM brefore call WinActive, Current active title: holiday - GoldenDict
+4:51:34 PM after call WinWaitActive, Current active title: holiday - GoldenDict
+4:51:34 PM through
+4:55:48 PM brefore call WinWaitActive, Current active title: recursion - Google Search and 4 more pages - Personal - Microsoft​ Edge
+4:55:48 PM brefore call WinActive, Current active title: recursion - GoldenDict
+4:55:49 PM after call WinWaitActive, Current active title: recursion - GoldenDict
+4:55:49 PM example
+21/10/2020 5:05:09 PM ${%APPDATA%} brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+21/10/2020 5:05:09 PM ${%APPDATA%} brefore call WinActive, Current active title: recursive - GoldenDict
+21/10/2020 5:05:09 PM ${%APPDATA%} after call WinWaitActive, Current active title: recursive - GoldenDict
+21/10/2020 5:05:09 PM ${%APPDATA%} sense
+21/10/2020 5:08:30 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+21/10/2020 5:08:31 PM brefore call WinActive, Current active title: sense - GoldenDict
+21/10/2020 5:08:31 PM after call WinWaitActive, Current active title: sense - GoldenDict
+21/10/2020 5:08:31 PM temple
+21/10/2020 5:08:44 PM SearchWikiGoogleGoldenDict were
+21/10/2020 5:09:03 PM SearchWikiGoogleGoldenDict Kerala
+21/10/2020 5:09:25 PM SearchWikiGoogleGoldenDict met Jesus Christ
+21/10/2020 5:09:50 PM SearchWikiGoogleGoldenDict Muslim
+21/10/2020 5:09:59 PM SearchWikiGoogleGoldenDict Mosque
+21/10/2020 5:10:05 PM SearchWikiGoogleGoldenDict Muslim
+21/10/2020 5:13:57 PM Searched Wiki vs Google: birds
+21/10/2020 5:13:57 PM brefore call WinWaitActive, Current active title: Untitled and 17 more pages - Personal - Microsoft​ Edge
+21/10/2020 5:13:57 PM brefore call WinActive, Current active title: Untitled and 18 more pages - Personal - Microsoft​ Edge
+21/10/2020 5:14:01 PM after call WinWaitActive, Current active title: Mosque - GoldenDict
+21/10/2020 5:14:01 PM birds
+21/10/2020 5:14:06 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+21/10/2020 5:14:06 PM brefore call WinActive, Current active title: Mosqubirds - GoldenDict
+21/10/2020 5:14:07 PM after call WinWaitActive, Current active title: Mosqubirds - GoldenDict
+21/10/2020 5:14:07 PM hidden
+21/10/2020 5:14:13 PM Searched Wiki vs Google: Muslim
+21/10/2020 5:14:13 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+21/10/2020 5:14:14 PM brefore call WinActive, Current active title: hidden - GoldenDict
+21/10/2020 5:14:14 PM after call WinWaitActive, Current active title: hidden - GoldenDict
+21/10/2020 5:14:14 PM Muslim
+21/10/2020 5:14:23 PM Searched Wiki vs Google: invited
+21/10/2020 5:14:23 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+21/10/2020 5:14:23 PM brefore call WinActive, Current active title: Muslim - GoldenDict
+21/10/2020 5:14:24 PM after call WinWaitActive, Current active title: Untitled and 1 more page - Personal - Microsoft​ Edge
+21/10/2020 5:14:24 PM invited
+21/10/2020 5:15:59 PM Searched Wiki vs Google: ground
+21/10/2020 5:15:59 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+21/10/2020 5:15:59 PM brefore call WinActive, Current active title: Muslim - GoldenDict
+21/10/2020 5:16:00 PM after call WinWaitActive, Current active title: Muslim - GoldenDict
+21/10/2020 5:16:00 PM ground
+21/10/2020 5:16:10 PM Searched Wiki vs Google: religion
+21/10/2020 5:16:10 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+21/10/2020 5:16:10 PM brefore call WinActive, Current active title: ground - GoldenDict
+21/10/2020 5:16:10 PM after call WinWaitActive, Current active title: ground - GoldenDict
+21/10/2020 5:16:10 PM religion
+21/10/2020 5:16:18 PM Searched Wiki vs Google: walking
+21/10/2020 5:16:19 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+21/10/2020 5:16:19 PM brefore call WinActive, Current active title: religion - GoldenDict
+21/10/2020 5:16:19 PM after call WinWaitActive, Current active title: religion - GoldenDict
+21/10/2020 5:16:19 PM walking
+21/10/2020 5:16:35 PM Searched Wiki vs Google: different
+21/10/2020 5:16:35 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+21/10/2020 5:16:36 PM brefore call WinActive, Current active title: religion - GoldenDict
+21/10/2020 5:16:40 PM after call WinWaitActive, Current active title: religion - GoldenDict
+21/10/2020 5:16:40 PM different
+21/10/2020 5:16:49 PM Searched Wiki vs Google: two
+21/10/2020 5:16:49 PM brefore call WinWaitActive, Current active title: *G:\reading\Life_of_Pi-Yann_Martel.txt - Notepad++
+21/10/2020 5:16:50 PM brefore call WinActive, Current active title: walkindifferent - GoldenDict
+21/10/2020 5:16:50 PM after call WinWaitActive, Current active title: walkindifferent - GoldenDict
+21/10/2020 5:16:50 PM two
+21/10/2020 5:24:36 PM brefore call WinWaitActive, Current active title: F:\Code\PhatSoBvTinh\PhatSoBvTinh\HostHienThiService\bin\Debug\HostHienThiService.exe.config - Notepad++
+21/10/2020 5:24:36 PM brefore call WinActive, Current active title: walkindifferent - GoldenDict
+21/10/2020 5:24:37 PM after call WinWaitActive, Current active title: walkindifferent - GoldenDict
+21/10/2020 5:24:37 PM Layout
+21/10/2020 5:26:40 PM brefore call WinWaitActive, Current active title: The Art of Doing Science and Engineering: Learning to Learn
+21/10/2020 5:26:40 PM brefore call WinActive, Current active title: Layout - GoldenDict
+21/10/2020 5:26:41 PM after call WinWaitActive, Current active title: Layout - GoldenDict
+21/10/2020 5:26:41 PM  furthermore
+21/10/2020 5:29:12 PM brefore call WinWaitActive, Current active title: Script
+21/10/2020 5:29:12 PM brefore call WinActive, Current active title: furthermore - GoldenDict
+21/10/2020 5:29:12 PM after call WinWaitActive, Current active title: furthermore - GoldenDict
+21/10/2020 5:29:12 PM Send("!{ESC}")
+21/10/2020 5:30:32 PM brefore call WinWaitActive, Current active title: The Art of Doing Science and Engineering: Learning to Learn
+21/10/2020 5:30:32 PM brefore call WinActive, Current active title: furthermore - GoldenDict
+21/10/2020 5:30:32 PM after call WinWaitActive, Current active title: furthermore - GoldenDict
+21/10/2020 5:30:32 PM  furthermore
+21/10/2020 5:30:56 PM brefore call WinWaitActive, Current active title: The Art of Doing Science and Engineering: Learning to Learn
+21/10/2020 5:30:57 PM brefore call WinActive, Current active title: furthermore - GoldenDict
+21/10/2020 5:30:57 PM after call WinWaitActive, Current active title: furthermore - GoldenDict
+21/10/2020 5:30:57 PM  internall
+21/10/2020 5:42:55 PM brefore call WinWaitActive, Current active title: 
+21/10/2020 5:42:55 PM brefore call WinActive, Current active title: internally - GoldenDict
+21/10/2020 5:42:56 PM after call WinWaitActive, Current active title: internally - GoldenDict
+21/10/2020 5:42:56 PM  internall
+21/10/2020 5:43:03 PM brefore call WinWaitActive, Current active title: The Art of Doing Science and Engineering: Learning to Learn
+21/10/2020 5:43:03 PM brefore call WinActive, Current active title: internall - GoldenDict
+21/10/2020 5:43:03 PM after call WinWaitActive, Current active title: internall - GoldenDict
+21/10/2020 5:43:03 PM   tightened  u
+21/10/2020 10:40:42 PM brefore call WinWaitActive, Current active title: Trump abruptly ends '60 Minutes' interview before taping joint appearance with Pence and 2 more pages - Personal - Microsoft​ Edge
+21/10/2020 10:40:43 PM brefore call WinActive, Current active title: tighten up - GoldenDict
+21/10/2020 10:40:43 PM after call WinWaitActive, Current active title: tighten up - GoldenDict
+21/10/2020 10:40:43 PM abruptly
+21/10/2020 10:41:03 PM brefore call WinWaitActive, Current active title: Trump abruptly ends '60 Minutes' interview before taping joint appearance with Pence and 2 more pages - Personal - Microsoft​ Edge
+21/10/2020 10:41:04 PM brefore call WinActive, Current active title: abruptly - GoldenDict
+21/10/2020 10:41:04 PM after call WinWaitActive, Current active title: abruptly - GoldenDict
+21/10/2020 10:41:04 PM joint
+21/10/2020 10:42:13 PM brefore call WinWaitActive, Current active title: Trump abruptly ends '60 Minutes' interview before taping joint appearance with Pence and 2 more pages - Personal - Microsoft​ Edge
+21/10/2020 10:42:13 PM brefore call WinActive, Current active title: joint - GoldenDict
+21/10/2020 10:42:14 PM after call WinWaitActive, Current active title: joint - GoldenDict
+21/10/2020 10:42:14 PM footage
+21/10/2020 10:43:16 PM brefore call WinWaitActive, Current active title: Trump abruptly ends '60 Minutes' interview before taping joint appearance with Pence and 2 more pages - Personal - Microsoft​ Edge
+21/10/2020 10:43:16 PM brefore call WinActive, Current active title: footage - GoldenDict
+21/10/2020 10:43:17 PM after call WinWaitActive, Current active title: footage - GoldenDict
+21/10/2020 10:43:17 PM  scatter-shot
+21/10/2020 10:43:37 PM brefore call WinWaitActive, Current active title: Trump abruptly ends '60 Minutes' interview before taping joint appearance with Pence and 2 more pages - Personal - Microsoft​ Edge
+21/10/2020 10:43:37 PM brefore call WinActive, Current active title: scattershot - GoldenDict
+21/10/2020 10:43:38 PM after call WinWaitActive, Current active title: scattershot - GoldenDict
+21/10/2020 10:43:38 PM doomed
+21/10/2020 10:43:51 PM brefore call WinWaitActive, Current active title: Trump abruptly ends '60 Minutes' interview before taping joint appearance with Pence and 2 more pages - Personal - Microsoft​ Edge
+21/10/2020 10:43:51 PM brefore call WinActive, Current active title: doomed - GoldenDict
+21/10/2020 10:43:52 PM after call WinWaitActive, Current active title: doomed - GoldenDict
+21/10/2020 10:43:52 PM 
+22/10/2020 7:37:43 AM brefore call WinWaitActive, Current active title: vubao108 - Anki
+22/10/2020 7:37:43 AM brefore call WinActive, Current active title: depictions - GoldenDict
+22/10/2020 7:37:43 AM after call WinWaitActive, Current active title: depictions - GoldenDict
+22/10/2020 7:37:43 AM tabloid 
+22/10/2020 7:38:34 AM Searched Wiki vs Google: tabloid 
+22/10/2020 7:38:34 AM brefore call WinWaitActive, Current active title: vubao108 - Anki
+22/10/2020 7:38:34 AM brefore call WinActive, Current active title: tabloid - GoldenDict
+22/10/2020 7:38:34 AM after call WinWaitActive, Current active title: tabloid - GoldenDict
+22/10/2020 7:38:35 AM tabloid 
+22/10/2020 9:34:03 AM notepad.exe notepad.exe exist
+22/10/2020 9:40:32 AM notepad.exe notepad.exe exist
+22/10/2020 9:40:42 AM notepad.exe notepad.exe exist
+22/10/2020 9:40:53 AM notepad.exe notepad.exe exist
+22/10/2020 9:41:02 AM notepad.exe notepad.exe exist
+22/10/2020 9:41:25 AM notepad.exe notepad.exe exist
+22/10/2020 9:43:09 AM Searched Wiki vs Google: xin chao
+
+22/10/2020 9:43:09 AM brefore call WinWaitActive, Current active title: Untitled and 6 more pages - Personal - Microsoft​ Edge
+22/10/2020 9:43:09 AM brefore call WinActive, Current active title: tabloid - GoldenDict
+22/10/2020 9:43:09 AM after call WinWaitActive, Current active title: tabloid - GoldenDict
+22/10/2020 9:43:09 AM xin chao
+
+22/10/2020 9:47:43 AM Google search: anki suspend
+22/10/2020 9:55:42 AM Searched Wiki vs Google:  Send("^c")
+    $currentClip = ClipGet()
+22/10/2020 9:55:42 AM brefore call WinWaitActive, Current active title: Untitled and 4 more pages - Personal - Microsoft​ Edge
+22/10/2020 9:55:42 AM brefore call WinActive, Current active title: xin chao - GoldenDict
+22/10/2020 9:55:42 AM after call WinWaitActive, Current active title: xin chao - GoldenDict
+22/10/2020 9:55:42 AM  Send("^c")
+    $currentClip = ClipGet()
+22/10/2020 9:57:13 AM Searched Wiki vs Google:  Send("^c")
+    $currentClip = ClipGet()
+22/10/2020 9:57:13 AM brefore call WinWaitActive, Current active title: Untitled and 6 more pages - Personal - Microsoft​ Edge
+22/10/2020 9:57:14 AM brefore call WinActive, Current active title: Send("^c") $currentClip = ClipGet() - GoldenDict
+22/10/2020 9:57:14 AM after call WinWaitActive, Current active title: Send("^c") $currentClip = ClipGet() - GoldenDict
+22/10/2020 9:57:14 AM  Send("^c")
+    $currentClip = ClipGet()
+22/10/2020 9:58:49 AM Searched Wiki vs Google: ClipPut("")
+22/10/2020 9:58:49 AM brefore call WinWaitActive, Current active title: Untitled and 8 more pages - Personal - Microsoft​ Edge
+22/10/2020 9:58:49 AM brefore call WinActive, Current active title: Send("^c") $currentClip = ClipGet() - GoldenDict
+22/10/2020 9:58:50 AM after call WinWaitActive, Current active title: Send("^c") $currentClip = ClipGet() - GoldenDict
+22/10/2020 9:58:50 AM ClipPut("")
+22/10/2020 10:00:40 AM Searched Wiki vs Google:  $currentClip = ClipGet()
+22/10/2020 10:00:40 AM brefore call WinWaitActive, Current active title: Untitled and 10 more pages - Personal - Microsoft​ Edge
+22/10/2020 10:00:40 AM brefore call WinActive, Current active title: ClipPut("") - GoldenDict
+22/10/2020 10:00:41 AM after call WinWaitActive, Current active title: ClipPut("") - GoldenDict
+22/10/2020 10:00:41 AM  $currentClip = ClipGet()
+22/10/2020 10:01:58 AM Searched Wiki vs Google:  $currentClip = ClipGet()
+22/10/2020 10:01:58 AM brefore call WinWaitActive, Current active title: Search
+22/10/2020 10:01:58 AM brefore call WinActive, Current active title: Search
+22/10/2020 10:02:13 AM after call WinWaitActive, Current active title: $currentClip = ClipGet() - GoldenDict
+22/10/2020 10:02:13 AM  $currentClip = ClipGet()
+22/10/2020 10:04:45 AM ClipGet()=
+22/10/2020 10:04:45 AM Searched Wiki vs Google: thu nghiem
+22/10/2020 10:04:45 AM brefore call WinWaitActive, Current active title: Untitled and 13 more pages - Personal - Microsoft​ Edge
+22/10/2020 10:04:45 AM brefore call WinActive, Current active title: Untitled and 14 more pages - Personal - Microsoft​ Edge
+22/10/2020 10:04:50 AM after call WinWaitActive, Current active title: $currentClip = ClipGet() - GoldenDict
+22/10/2020 10:04:50 AM thu nghiem
+22/10/2020 10:05:08 AM ClipGet()=
+22/10/2020 10:05:09 AM Searched Wiki vs Google: hay vai lua
+22/10/2020 10:05:09 AM brefore call WinWaitActive, Current active title: Run
+22/10/2020 10:05:09 AM brefore call WinActive, Current active title: thu nghiem - GoldenDict
+22/10/2020 10:05:09 AM after call WinWaitActive, Current active title: thu nghiem - GoldenDict
+22/10/2020 10:05:09 AM hay vai lua
+22/10/2020 10:06:01 AM Searched Wiki vs Google: enginer
+22/10/2020 10:06:01 AM brefore call WinWaitActive, Current active title: Run
+22/10/2020 10:06:02 AM brefore call WinActive, Current active title: hay vai lua - GoldenDict
+22/10/2020 10:06:02 AM after call WinWaitActive, Current active title: hay vai lua - GoldenDict
+22/10/2020 10:06:02 AM enginer
+22/10/2020 10:07:37 AM ClipGet()=
+22/10/2020 10:07:37 AM brefore call WinWaitActive, Current active title: Run
+22/10/2020 10:07:38 AM brefore call WinActive, Current active title: enginer - GoldenDict
+22/10/2020 10:07:38 AM after call WinWaitActive, Current active title: enginer - GoldenDict
+22/10/2020 10:07:38 AM hello world
+22/10/2020 10:07:45 AM brefore call WinWaitActive, Current active title: Run
+22/10/2020 10:07:45 AM brefore call WinActive, Current active title: hello world - GoldenDict
+22/10/2020 10:07:45 AM after call WinWaitActive, Current active title: hello world - GoldenDict
+22/10/2020 10:07:45 AM world

@@ -1,0 +1,14 @@
+F:\Code\AutoIt\FirstDemo\FirstDemo\bin\Debug\FirstDemo.exe.config
+F:\Code\AutoIt\FirstDemo\FirstDemo\bin\Debug\FirstDemo.exe
+F:\Code\AutoIt\FirstDemo\FirstDemo\bin\Debug\FirstDemo.pdb
+F:\Code\AutoIt\FirstDemo\FirstDemo\bin\Debug\AutoItX3.Assembly.dll
+F:\Code\AutoIt\FirstDemo\FirstDemo\bin\Debug\AutoItX3.Assembly.xml
+F:\Code\AutoIt\FirstDemo\FirstDemo\obj\Debug\FirstDemo.csprojAssemblyReference.cache
+F:\Code\AutoIt\FirstDemo\FirstDemo\obj\Debug\FirstDemo.csproj.CoreCompileInputs.cache
+F:\Code\AutoIt\FirstDemo\FirstDemo\obj\Debug\FirstDemo.csproj.CopyComplete
+F:\Code\AutoIt\FirstDemo\FirstDemo\obj\Debug\FirstDemo.exe
+F:\Code\AutoIt\FirstDemo\FirstDemo\obj\Debug\FirstDemo.pdb
+F:\Code\AutoIt\FirstDemo\FirstDemo\obj\Debug\Interop.AutoItX3Lib.dll
+F:\Code\AutoIt\FirstDemo\FirstDemo\obj\Debug\FirstDemo.csproj.ResolveComReference.cache
+F:\Code\AutoIt\FirstDemo\FirstDemo\bin\Debug\AutoItX3.dll
+F:\Code\AutoIt\FirstDemo\FirstDemo\bin\Debug\AutoItX3_x64.dll

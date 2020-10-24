@@ -1,0 +1,15 @@
+F:\Code\AutoIt\FirstDemo\ConsoleAppHostWcf\bin\Debug\AutoItX3.dll
+F:\Code\AutoIt\FirstDemo\ConsoleAppHostWcf\bin\Debug\AutoItX3_x64.dll
+F:\Code\AutoIt\FirstDemo\ConsoleAppHostWcf\bin\Debug\ConsoleAppHostWcf.exe.config
+F:\Code\AutoIt\FirstDemo\ConsoleAppHostWcf\bin\Debug\ConsoleAppHostWcf.exe
+F:\Code\AutoIt\FirstDemo\ConsoleAppHostWcf\bin\Debug\ConsoleAppHostWcf.pdb
+F:\Code\AutoIt\FirstDemo\ConsoleAppHostWcf\bin\Debug\WcfServiceRunAutoIt.dll
+F:\Code\AutoIt\FirstDemo\ConsoleAppHostWcf\bin\Debug\AutoItX3.Assembly.dll
+F:\Code\AutoIt\FirstDemo\ConsoleAppHostWcf\bin\Debug\WcfServiceRunAutoIt.pdb
+F:\Code\AutoIt\FirstDemo\ConsoleAppHostWcf\bin\Debug\WcfServiceRunAutoIt.dll.config
+F:\Code\AutoIt\FirstDemo\ConsoleAppHostWcf\bin\Debug\AutoItX3.Assembly.xml
+F:\Code\AutoIt\FirstDemo\ConsoleAppHostWcf\obj\Debug\ConsoleAppHostWcf.csprojAssemblyReference.cache
+F:\Code\AutoIt\FirstDemo\ConsoleAppHostWcf\obj\Debug\ConsoleAppHostWcf.csproj.CoreCompileInputs.cache
+F:\Code\AutoIt\FirstDemo\ConsoleAppHostWcf\obj\Debug\ConsoleAppHostWcf.csproj.CopyComplete
+F:\Code\AutoIt\FirstDemo\ConsoleAppHostWcf\obj\Debug\ConsoleAppHostWcf.exe
+F:\Code\AutoIt\FirstDemo\ConsoleAppHostWcf\obj\Debug\ConsoleAppHostWcf.pdb

@@ -1,0 +1,12 @@
+F:\Code\AutoIt\FirstDemo\WcfServiceRunAutoIt\bin\WcfServiceRunAutoIt.dll.config
+F:\Code\AutoIt\FirstDemo\WcfServiceRunAutoIt\bin\WcfServiceRunAutoIt.dll
+F:\Code\AutoIt\FirstDemo\WcfServiceRunAutoIt\bin\WcfServiceRunAutoIt.pdb
+F:\Code\AutoIt\FirstDemo\WcfServiceRunAutoIt\obj\Debug\WcfServiceRunAutoIt.csprojAssemblyReference.cache
+F:\Code\AutoIt\FirstDemo\WcfServiceRunAutoIt\obj\Debug\WcfServiceRunAutoIt.csproj.CoreCompileInputs.cache
+F:\Code\AutoIt\FirstDemo\WcfServiceRunAutoIt\obj\Debug\WcfServiceRunAutoIt.dll
+F:\Code\AutoIt\FirstDemo\WcfServiceRunAutoIt\obj\Debug\WcfServiceRunAutoIt.pdb
+F:\Code\AutoIt\FirstDemo\WcfServiceRunAutoIt\bin\AutoItX3.dll
+F:\Code\AutoIt\FirstDemo\WcfServiceRunAutoIt\bin\AutoItX3_x64.dll
+F:\Code\AutoIt\FirstDemo\WcfServiceRunAutoIt\bin\AutoItX3.Assembly.dll
+F:\Code\AutoIt\FirstDemo\WcfServiceRunAutoIt\bin\AutoItX3.Assembly.xml
+F:\Code\AutoIt\FirstDemo\WcfServiceRunAutoIt\obj\Debug\WcfServiceRunAutoIt.csproj.CopyComplete
