@@ -5,6 +5,7 @@ HotKeySet("^n", "GetR")
 HotKeySet("^!c", "GoogleSearch") ;Set Ctrl+Alt+C to launch the function
 HotKeySet("^!g","SearchWikiGoogleGoldenDict")
 HotKeySet("{F2}","SearchGoldenDict")
+HotKeySet("{F3}","InsertAnkiNote")
 HotKeySet("^!n","OpenCurrentTextboxWithNotepad")
 ;HotKeySet("^!d","SearchGoldenDict")
 
@@ -43,6 +44,7 @@ Func GoogleSearch() ;Our Function
     $currentClip = ClipGet()
     ShellExecute("https://www.google.com/search?q=" & $currentClip) ;Navigate to search
     WriteLog("Google search: " & $currentClip)
+    ClipPut("")
     ;ClipPut($sOldClip) ;Restore Old Clipboard
 
 EndFunc
@@ -114,14 +116,32 @@ Func SearchGoldenDict()
         WriteLog($currentClip)
         ;start delete old word in goldendict
         $lenOld = StringLen($currentActiveTitle)
+        if WinActive('[CLASS:QWidget]') Then
+            Send('^a')
+            Sleep(20)
+            Send('{BS}')
+            Sleep(80)
+            ;end delete old word
+            Send("^v")
+            Send("{ENTER}")
+        EndIf
         ;Sleep(
-        Sleep(80)
-        ;end delete old word
-        Send("^v")
-        Send("{ENTER}")
-        Run('C:\Python38\python.exe F:\Code\AutoIt\anki\importCardWhileRead.py "' & $currentClip &'"')
+        
+        ;
     EndIf
+    ;ClipPut("")
+EndFunc
 
+Func InsertAnkiNote()
+    $word = ClipGet()
+    Sleep(20)
+    Send("^c")
+    Sleep(80)
+    $meaning = ClipGet()
+    $meaning= StringReplace($meaning,@CRLF,'<br>')    
+    WriteLog("insertAnkiNote " & $word &":" & $meaning)
+    Run('C:\Python38\python.exe F:\Code\AutoIt\anki\importCardWhileRead.py "' & $word &'" "' & $meaning &'"')
+    ClipPut("")
 EndFunc
 
 Func OpenCurrentTextboxWithNotepad()

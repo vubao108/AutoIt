@@ -43,6 +43,8 @@ def importWord2Anki(word,meaning="",deckname="Reading::DailyWord"):
 def main():
     # vd: python importCardWhileRead.py "success career" "excellent person"
     #for arg in sys.argv[1:]:
+    print(sys.argv[1])
+    print(sys.argv[2])
     importWord2Anki(sys.argv[1],sys.argv[2])
     # searchFromWeb(current_word)
 
