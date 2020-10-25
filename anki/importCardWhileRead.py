@@ -1,7 +1,7 @@
 import json
 import requests
 import sys
-def importWord2Anki(word,deckname="Reading::DailyWord"):
+def importWord2Anki(word,meaning="",deckname="Reading::DailyWord"):
     r = requests.post('http://192.168.115.1:8765', json={
         "action": "addNote",
         "version": 6,
@@ -11,7 +11,7 @@ def importWord2Anki(word,deckname="Reading::DailyWord"):
                 "modelName": "LWT-Note-Type",
                 "fields": {
                     "Word": word,
-                    "Translation": "",
+                    "Translation": meaning,
                     "Romanization": "",
                     "SentenceWithGap": "",
                     "Sentence": "",
@@ -42,9 +42,9 @@ def importWord2Anki(word,deckname="Reading::DailyWord"):
 
 def main():
     # vd: python importCardWhileRead.py "success career" "excellent person"
-    for arg in sys.argv[1:]:
-        importWord2Anki(arg)
-        # searchFromWeb(current_word)
+    #for arg in sys.argv[1:]:
+    importWord2Anki(sys.argv[1],sys.argv[2])
+    # searchFromWeb(current_word)
 
 if __name__ == "__main__":
     main()
