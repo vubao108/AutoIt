@@ -3,29 +3,93 @@
 #include <Misc.au3>
 
 HotKeySet("^n", "GetR")
+HotKeySet("^b", "GetA")
+HotKeySet("^f", "GetL")
+HotKeySet("^g", "GetSongMa")
+While 1 ;Keep the script open and running in the background
+    Sleep(10)
+WEnd
+    
 Func GetR()
-    ClipPut("")
-    $num = _WaitForKeypressOrClick()
+    ;ClipPut("")
+    WriteLog("GetR")
+    $num = _WaitForKeypressOrClick() 
     WriteLog($num)
     For $i = 0 To $num Step +1
         Send("^a")
         Sleep(30)
-        Send("+t")
-        WriteLog("GetR")
+        Send("+r")
+       
     Next
+     WriteLog("GetR: " &$num)
     Send("{ESCAPE}")
   
 EndFunc
 
+Func GetA()
+    ;ClipPut("")
+    WriteLog("GetA")
+    $num = _WaitForKeypressOrClick() 
+    WriteLog($num)
+    For $i = 0 To $num Step +1
+        Send("^a")
+        Sleep(30)
+        Send("+a")
+       
+    Next
+     WriteLog("GetA: " &$num)
+    Send("{ESCAPE}")
+  
+EndFunc
+
+Func GetSongMa()
+    ;ClipPut("")
+    WriteLog("GetL")
+    $num = _WaitForKeypressOrClick() 
+    WriteLog($num)
+    For $i = 0 To $num Step +1
+        Send("^L")
+        Sleep(30)
+        Send("+r")
+       
+    Next
+     WriteLog("GetL: " &$num)
+    Send("{ESCAPE}")
+  
+EndFunc
+
+Func GetL()
+    ;ClipPut("")
+    WriteLog("GetL")
+    $num = _WaitForKeypressOrClick() 
+    WriteLog($num)
+    For $i = 0 To $num Step +1
+        Send("^L")
+        Sleep(30)
+        Send("+l")
+       
+    Next
+     WriteLog("GetL: " &$num)
+    Send("{ESCAPE}")
+  
+EndFunc
 
 Func _WaitForKeypressOrClick()
     While 1
-       For $c = 1 To 165
+       For $c = 31 To 39  Step +1
           If _IsPressed($c) Then 
-             Return($c)
+            WriteLog($c)
+            Return(Dec($c) - Dec(30))
           EndIf
        Next
-       Sleep(20)
+
+       For $c2 = 60 To 69  Step +1
+        If _IsPressed($c2) Then 
+          WriteLog($c2)
+          Return(Dec($c2) - 86)
+        EndIf
+     Next
+       Sleep(10)
     WEnd
  EndFunc
 
