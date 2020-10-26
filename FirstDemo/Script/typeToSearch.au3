@@ -34,7 +34,10 @@ Func GoogleSearch() ;Our Function
     $currentClip = ClipGet()
     ShellExecute("https://www.google.com/search?q=" & $currentClip) ;Navigate to search
     WriteLog("Google search: " & $currentClip)
-    ClipPut("")
+    ;ClipPut("")
+    Sleep(20)
+    Send("{ESCAPE}")
+    ;ClipPut("")
     ;ClipPut($sOldClip) ;Restore Old Clipboard
 
 EndFunc
