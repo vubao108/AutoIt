@@ -21,23 +21,25 @@ Func GoogleSearch() ;Our Function
     ;$sOldClip = ClipGet() ;Save Current Clipboard
     ClipPut("")
     Send("^c")
-    Sleep(80)
+    ;Sleep(80)
     ;$currentClip = ClipGet()
     if StringLen(ClipGet()) = 0 then
         ;ClipPut("")
         WriteLog("ClipGet()="&ClipGet())
-        Send("^a")        
+        Send("^a")   
+        Sleep(80)       
         Send("^c")  
-        Sleep(80)     
+          
     EndIf
-    
+    Sleep(80)  
     $currentClip = ClipGet()
     ShellExecute("https://www.google.com/search?q=" & $currentClip) ;Navigate to search
     WriteLog("Google search: " & $currentClip)
     ;ClipPut("")
-    Sleep(20)
-    Send("{ESCAPE}")
-    ;ClipPut("")
+    ;Sleep(20)
+    ;Send("{ESCAPE}")
+    Send("{^ up}")
+    ClipPut("")
     ;ClipPut($sOldClip) ;Restore Old Clipboard
 
 EndFunc
@@ -52,7 +54,8 @@ Func SearchWikiGoogleGoldenDict()
     if StringLen(ClipGet()) = 0 then
         ;ClipPut("")
         WriteLog("ClipGet()="&ClipGet())
-        Send("^a")        
+        Send("^a")   
+        Sleep(80)       
         Send("^c")
         Sleep(80)
     EndIf
@@ -153,7 +156,8 @@ Func OpenCurrentTextboxWithNotepad()
     if StringLen(ClipGet()) = 0 then
         ;ClipPut("")
         WriteLog("ClipGet()="&ClipGet())
-        Send("^a")        
+        Send("^a") 
+        Sleep(80)       
         Send("^c")       
     EndIf
 
