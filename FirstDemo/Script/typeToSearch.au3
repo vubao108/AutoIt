@@ -1,7 +1,7 @@
 #include <Clipboard.au3>
 #include <Date.au3>
 
-HotKeySet("^n", "GetR")
+;HotKeySet("^n", "GetR")
 HotKeySet("^!c", "GoogleSearch") ;Set Ctrl+Alt+C to launch the function
 HotKeySet("^!g","SearchWikiGoogleGoldenDict")
 HotKeySet("{F2}","SearchGoldenDict")
@@ -15,17 +15,7 @@ While 1 ;Keep the script open and running in the background
 Sleep(10)
 WEnd
 
-Func GetR()
-    ClipPut("")
-    For $i = 0 To 4 Step +1
-        Send("^a")
-        Sleep(30)
-        Send("+t")
-        WriteLog("GetR")
-    Next
-    ClipPut("")
-  
-EndFunc
+
 
 Func GoogleSearch() ;Our Function
     ;$sOldClip = ClipGet() ;Save Current Clipboard
@@ -117,13 +107,21 @@ Func SearchGoldenDict()
         ;start delete old word in goldendict
         $lenOld = StringLen($currentActiveTitle)
         if WinActive('[CLASS:QWidget]') Then
+            Sleep(20)
             Send('^a')
             Sleep(20)
             Send('{BS}')
             Sleep(80)
             ;end delete old word
             Send("^v")
+            Sleep(20)
             Send("{ENTER}")
+            $containSpace = StringInStr($currentClip," ")
+            WriteLog("containSpace = " &$containSpace)
+            if $containSpace = 0 then
+                Sleep(20)
+                Send("!s")
+            EndIf
         EndIf
         ;Sleep(
         
