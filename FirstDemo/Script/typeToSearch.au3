@@ -145,7 +145,7 @@ Func InsertAnkiNote()
     $meaning= StringReplace($meaning,@CRLF,'<br>')    
     WriteLog("insertAnkiNote " & $word &":" & $meaning)
     Run('C:\Python38\python.exe F:\Code\AutoIt\anki\importCardWhileRead.py "' & $word &'" "' & $meaning &'"')
-    ClipPut("")
+    ;ClipPut("")
 EndFunc
 
 Func OpenCurrentTextboxWithNotepad()
@@ -174,7 +174,7 @@ Func OpenCurrentTextboxWithNotepad()
     Send("^v")
 
     ;WriteLog("Google search: " & $currentClip)
-    ClipPut("")
+    ;ClipPut("")
 EndFunc
 
 Func WriteLog($stringToWrite)
