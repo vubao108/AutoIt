@@ -39,13 +39,29 @@ def importWord2Anki(word,meaning="",deckname="Reading::DailyWord"):
 # def searchFromWeb(word, web="https://m.dict.laban.vn/en_vn/find?keyword="):
 #     r = requests.get(web+word)
 #     r.json()
+def syncAnki():
+    r = requests.post('http://192.168.115.1:8765', json={
+        "action": "sync",
+        "version": 6       
+    })
+    response = r.json()
+    if len(response) != 2:
+        raise Exception('response has an unexpected number of fields')
+    if 'error' not in response:
+        raise Exception('response is missing required error field')
+    if 'result' not in response:
+        raise Exception('response is missing required result field')
+    if response['error'] is not None:
+        raise Exception(response['error'])
+    return True
 
 def main():
     # vd: python importCardWhileRead.py "success career" "excellent person"
     #for arg in sys.argv[1:]:
-    print(sys.argv[1])
-    print(sys.argv[2])
+    #print(sys.argv[1])
+    #print(sys.argv[2])
     importWord2Anki(sys.argv[1],sys.argv[2])
+    syncAnki()
     # searchFromWeb(current_word)
 
 if __name__ == "__main__":
