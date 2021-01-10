@@ -2,10 +2,12 @@
 #include <Date.au3>
 #include <Misc.au3>
 
-HotKeySet("^n", "GetR")
-HotKeySet("^b", "GetA")
-HotKeySet("^f", "GetL")
-HotKeySet("^g", "GetSongMa")
+HotKeySet("!r", "GetR")
+HotKeySet("!a", "GetA")
+HotKeySet("!c", "GetCungC")
+HotKeySet("!l", "GetL")
+HotKeySet("!j", "GetSongMa")
+HotKeySet("!k", "GetNguaChem")
 While 1 ;Keep the script open and running in the background
     Sleep(10)
 WEnd
@@ -15,7 +17,7 @@ Func GetR()
     WriteLog("GetR")
     $num = _WaitForKeypressOrClick() 
     WriteLog($num)
-    For $i = 0 To $num Step +1
+    For $i = 1 To $num Step +1
         Send("^a")
         Sleep(30)
         Send("+r")
@@ -31,10 +33,26 @@ Func GetA()
     WriteLog("GetA")
     $num = _WaitForKeypressOrClick() 
     WriteLog($num)
-    For $i = 0 To $num Step +1
+    For $i = 1 To $num Step +1
         Send("^a")
         Sleep(30)
         Send("+a")
+       
+    Next
+     WriteLog("GetA: " &$num)
+    Send("{ESCAPE}")
+  
+EndFunc
+
+Func GetCungC()
+    ;ClipPut("")
+    WriteLog("GetA")
+    $num = _WaitForKeypressOrClick() 
+    WriteLog($num)
+    For $i = 1 To $num Step +1
+        Send("^a")
+        Sleep(30)
+        Send("+c")
        
     Next
      WriteLog("GetA: " &$num)
@@ -47,10 +65,26 @@ Func GetSongMa()
     WriteLog("GetL")
     $num = _WaitForKeypressOrClick() 
     WriteLog($num)
-    For $i = 0 To $num Step +1
+    For $i = 1 To $num Step +1
         Send("^L")
         Sleep(30)
         Send("+r")
+       
+    Next
+     WriteLog("GetL: " &$num)
+    Send("{ESCAPE}")
+  
+EndFunc
+
+Func GetNguaChem()
+    ;ClipPut("")
+    WriteLog("GetL")
+    $num = _WaitForKeypressOrClick() 
+    WriteLog($num)
+    For $i = 1 To $num Step +1
+        Send("^L")
+        Sleep(30)
+        Send("+c")
        
     Next
      WriteLog("GetL: " &$num)
@@ -63,7 +97,7 @@ Func GetL()
     WriteLog("GetL")
     $num = _WaitForKeypressOrClick() 
     WriteLog($num)
-    For $i = 0 To $num Step +1
+    For $i = 1 To $num Step +1
         Send("^L")
         Sleep(30)
         Send("+l")
@@ -94,6 +128,33 @@ Func _WaitForKeypressOrClick()
  EndFunc
 
  Func WriteLog($stringToWrite)
+
+    $sFilePath = "log_autoit.txt"
+
+    ; ; Create a temporary file to write data to.
+    ; If Not FileWrite($sFilePath, _NowDate() & " " & _NowTime() & " ")  Then
+        ; MsgBox($MB_SYSTEMMODAL, "", "An error occurred whilst writing the log file.")
+        ; Return False
+    ; EndIf
+
+    ; ; Open the file for writing (append to the end of a file) and store the handle to a variable.
+    ; Local $hFileOpen = FileOpen($sFilePath, $FO_APPEND)
+    ; If $hFileOpen = -1 Then
+        ; MsgBox($MB_SYSTEMMODAL, "", "An error occurred whilst writing the log file.")
+        ; Return False
+    ; EndIf
+
+    ; ; Write data to the file using the handle returned by FileOpen.
+
+    ; FileWrite($hFileOpen, $stringToWrite & @CRLF)
+
+
+    ; ; Close the handle returned by FileOpen.
+    ; FileClose($hFileOpen)
+EndFunc
+
+
+ Func WriteLog2($stringToWrite)
 
     $sFilePath = "log_autoit.txt"
 
